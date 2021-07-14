@@ -199,7 +199,7 @@ margin: 16px 16px 0px 16px;
 }
 
 /* media query */
-@media only screen and (max-width:688px) {
+@media only screen and (max-width:823px) {
     .players{
         display: grid;
         grid-template-columns: repeat(1, 1fr);
